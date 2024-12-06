@@ -9,9 +9,9 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
+## Sponsors1
 
-<p align="center">
+<p align="center">1
   <a href="https://github.com/sponsors/jackyzha0">
     <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
   </a>
